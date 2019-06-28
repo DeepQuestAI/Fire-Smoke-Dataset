@@ -19,22 +19,22 @@ The implementation code in which the model was train with has been provide in th
 
 <strong>Some of the prediction results are shown below:</strong> <br>
 ![fire_1](./Assets/fire_1.jpg)
-> $$ ('Image of:', 'Class: Fire', 'Confidence score: 1.0') $$
+> ('Image of:', 'Class: Fire', 'Confidence score: 1.0') 
 
 ![fire_2](./Assets/fire_2.jpg)
-> $$ ('Image of:', 'Class: Fire', 'Confidence score: 0.990234375') $$
+> ('Image of:', 'Class: Fire', 'Confidence score: 0.990234375') 
 
 ![neutral_1](./Assets/neutral_1.jpg)
-> $$ ('Image of:', 'Class: Neutral', 'Confidence score: 0.99365234375') $$
+> ('Image of:', 'Class: Neutral', 'Confidence score: 0.99365234375') 
 
 ![neutral_2](./Assets/neutral_2.jpg)
-> $$ ('Image of:', 'Class: Neutral', 'Confidence score: 1.0') $$
+> ('Image of:', 'Class: Neutral', 'Confidence score: 1.0') 
 
 ![smoke_1](./Assets/smoke_1.jpg)
-> $$ ('Image of:', 'Class: Smoke', 'Confidence score: 0.4462890625') $$
+> ('Image of:', 'Class: Smoke', 'Confidence score: 0.4462890625') 
 
 ![smoke_1](./Assets/smoke_2.jpg)
-> $$ ('Image of:', 'Class: Smoke', 'Confidence score: 0.9970703125') $$
+> ('Image of:', 'Class: Smoke', 'Confidence score: 0.9970703125') 
 
 ### Reqirements
 ___
