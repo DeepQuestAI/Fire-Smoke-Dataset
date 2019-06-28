@@ -17,7 +17,24 @@ The Fire-Flame-Dataset is provided for download in the release section of this r
 
 The implementation code in which the model was train with has been provide in this repository. The model was trained with train with resnet50 and a accuracy of 85% on the test data was achieved. The python codebase is contained in fire_flame.ipynb. 
 
-Some of the prediction results are shown below:
+<strong>Some of the prediction results are shown below:</strong> <br>
+![fire_1](./Assets/fire_1.jpg)
+> $$ ('Image of:', 'Class: Fire', 'Confidence score: 1.0') $$
+
+![fire_2](./Assets/fire_2.jpg)
+> $$ ('Image of:', 'Class: Fire', 'Confidence score: 0.990234375') $$
+
+![neutral_1](./Assets/neutral_1.jpg)
+> $$ ('Image of:', 'Class: Neutral', 'Confidence score: 0.99365234375') $$
+
+![neutral_2](./Assets/neutral_2.jpg)
+> $$ ('Image of:', 'Class: Neutral', 'Confidence score: 1.0') $$
+
+![smoke_1](./Assets/smoke_1.jpg)
+> $$ ('Image of:', 'Class: Smoke', 'Confidence score: 0.4462890625') $$
+
+![smoke_1](./Assets/smoke_2.jpg)
+> $$ ('Image of:', 'Class: Smoke', 'Confidence score: 0.9970703125') $$
 
 ### Reqirements
 ___
@@ -29,5 +46,4 @@ ___
 
 ### References
 ___
-* [T. Gebru et al, Datasheets for Datasets](https://arxiv.org/abs/1803.09010)
 * [Kaiming H. et al, Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385 )
